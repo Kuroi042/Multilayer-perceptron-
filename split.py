@@ -1,1 +1,3 @@
-# Split data into training and testing sets
+# Split data ipipnto training and testing sets
+import numpy as np 
+np.array
